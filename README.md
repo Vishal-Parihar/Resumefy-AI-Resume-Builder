@@ -4,22 +4,25 @@
 
 Many students and job seekers struggle with resume structure, content quality, and presentation. This project addresses that challenge by providing a streamlined resume-building experience where users can manage their profiles, generate professional content, customize resume sections, and download their final resume in a clean, professional format.
 
+Security is a core aspect of the platform. User authentication is handled through **JWT-based authorization**, while sensitive user information is protected using **AES-256 encryption**, helping ensure confidentiality and secure data storage. The application also follows secure API practices to protect user accounts and resume data.
+
 ### Key Features
 
-* **Secure Authentication** using JWT-based login and registration
-* **AI-Powered Content Assistance** for summaries, skills, projects, and experience descriptions
-* **Dynamic Resume Builder** with editable sections
-* **Real-Time Resume Preview**
-* **Professional Resume Templates**
-* **PDF Export Functionality**
-* **Responsive Design** for desktop and mobile devices
-* **Resume Management Dashboard** to create, edit, and maintain resumes
+- **Secure Authentication** using JWT-based login and registration
+- **AES-256 Data Encryption** for protecting sensitive user information
+- **AI-Powered Content Assistance** for summaries, skills, projects, and experience descriptions
+- **Dynamic Resume Builder** with editable sections
+- **Real-Time Resume Preview**
+- **Professional Resume Templates**
+- **PDF Export Functionality**
+- **Responsive Design** for desktop and mobile devices
+- **Resume Management Dashboard** to create, edit, and maintain resumes
 
 ### Tech Stack
 
-**Frontend:** React.js · Tailwind CSS · React Router · Axios
+**Frontend:** React.js · Tailwind CSS · React Router · Axios · Redux Toolkit
 
-**Backend:** Node.js · Express.js · JWT Authentication
+**Backend:** Node.js · Express.js · JWT Authentication · AES - 256 Encryption
 
 **Database:** MongoDB Atlas via Mongoose
 
