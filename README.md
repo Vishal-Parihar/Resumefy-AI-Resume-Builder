@@ -1,6 +1,6 @@
-# 🤖 AI Resume Builder
+# 🤖 Resumefy - AI Resume Builder
 
-**AI Resume Builder** is a full-stack web application that helps users create professional resumes through an intuitive, guided workflow. The platform combines modern web technologies with AI-powered content assistance, enabling users to generate polished resume sections, organize their information effectively, and export job-ready resumes with minimal effort.
+**Resumefy** is a full-stack web application that helps users create professional resumes through an intuitive, guided workflow. The platform combines modern web technologies with AI-powered content assistance, enabling users to generate polished resume sections, organize their information effectively, and export job-ready resumes with minimal effort.
 
 Many students and job seekers struggle with resume structure, content quality, and presentation. This project addresses that challenge by providing a streamlined resume-building experience where users can manage their profiles, generate professional content, customize resume sections, and download their final resume in a clean, professional format.
 
